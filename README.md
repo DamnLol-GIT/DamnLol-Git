@@ -1,16 +1,15 @@
-## Hi there 👋
+# DamnLol Studio
 
-<!--
-**DamnLol-GIT/DamnLol-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official developer profile for **DamnLol** / **DamnLol Studio**. This page serves as a central hub for our active development projects and platform links.
 
-Here are some ideas to get you started:
+## Tech Stack & Production
+* **Unreal Engine** - Active development on an unannounced, private indie game project.
+* **Kotlin** - Application development and system tooling.
+* **Java** - Backend development and content architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Commercial repositories are currently kept private during active development.
+
+## Official Links
+* Twitter / X: [@DamnLolStudio](https://www.x.com/DamnLolStudio)
+* Reddit: [u/DamnLol_Studio](https://www.reddit.com/user/DamnLol_Studio)
+* GitHub: [DamnLol-GIT](https://www.github.com/DamnLol-GIT)
