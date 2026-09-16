@@ -4,8 +4,11 @@ Official developer profile for **DamnLol** / **DamnLol Studio**. This page serve
 
 ## Tech Stack & Production
 * **Unreal Engine** - Active development on an unannounced, private indie game project.
+* **C++** - Core engine programming, high-performance systems, and Unreal Engine scripting.
+* **C#** - Gameplay logic and tools development.
+* **Python** - Automation scripts, tooling pipelines, and backend utilities.
 * **Kotlin** - Application development and system tooling.
-* **Java** - Backend development and content architecture.
+* **Java** - Backend development, content architecture, and custom client plugin scripts.
 
 Commercial repositories are currently kept private during active development.
 
