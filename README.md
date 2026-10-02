@@ -17,6 +17,6 @@ Repositories intended for public release are kept private during active developm
 
 ## Official Links
 
-<a href="https://x.com/DamnLolStudio"><img src="https://damnlolstudio.com/icons/x.svg" width="32" height="32" alt="X / Twitter" title="X"></a>&nbsp;&nbsp;
+<a href="https://x.com/DamnLolStudio"><img src="https://damnlolstudio.com/icons/x.svg" width="32" height="32" alt="X" title="X"></a>&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/DamnLol_Studio"><img src="https://damnlolstudio.com/icons/reddit.svg" width="32" height="32" alt="Reddit" title="Reddit"></a>&nbsp;&nbsp;
 <a href="mailto:DamnLolStudio@gmail.com"><img src="https://damnlolstudio.com/icons/email.svg" width="32" height="32" alt="Email" title="Email"></a>
