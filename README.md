@@ -1,6 +1,6 @@
-# DamnLol Studio™
+# DamnLol Studio
 
-Official developer profile for **DamnLol Studio**. This page serves as a hub for our active development projects and platform links.
+Official developer profile for **DamnLol Studio™**. This page serves as a hub for our active development projects and platform links.
 
 **Website:** [damnlolstudio.com](https://damnlolstudio.com)
 
