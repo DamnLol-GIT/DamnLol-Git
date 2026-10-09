@@ -6,7 +6,7 @@ Official developer profile for **DamnLol Studio**. This page serves as a hub for
 
 ## Tech Stack & Production
 
-- **Unreal Engine** - Active development on an unannounced indie game project, covering gameplay systems, AI behaviour, and level design.
+- **Unreal Engine** - Active development on an unannounced game project, covering gameplay systems, AI behaviour, and level design.
 - **C++** - Core engine programming, high-performance systems, and Unreal Engine gameplay modules.
 - **C#** - Gameplay logic and tools development.
 - **Python** - Automation scripts, tooling pipelines, data processing, and backend utilities.
